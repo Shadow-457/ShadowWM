@@ -1,4 +1,4 @@
-# shadowwm v5  
+# SWM v5  
 ## Apple/GNOME-inspired Compositing Window Manager for X11
 
 shadowwm is a compositing X11 window manager written in pure C (about 2,200 lines of code). It gives your Linux desktop a look and feel similar to macOS while still running on X11. It manages all windows on screen – moving them, resizing them, and making them pretty with shadows and rounded corners.
